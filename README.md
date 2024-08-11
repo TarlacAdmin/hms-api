@@ -1,11 +1,11 @@
-# UNLAD Template Service Typescript Version (API)
+# HMS API
 
-Welcome to the UNLAD Template Service API documentation
+Welcome to the HMS API documentation
 
 ## Setup
 
 1.  Clone the repository
-    `git clone https://github.com/Unlad-Foundation/unlad-template-service-ts.git`
+    `git clone https://github.com/TarlacAdmin/hms-api.git`
 2.  Install dependencies
     `npm install`
 3.  Run local server
@@ -14,8 +14,8 @@ Welcome to the UNLAD Template Service API documentation
 ## Running Tests
 
 1. Install Postman for PCs/Mac (or use Postman for Web https://web.postman.co/)
-2. Import the `UNLAD TEMPLATE SERVICE (API).postman_collection.json` file from the repository
-3. Click the "UNLAD TEMPLATE API" collection name and update the following on the "Variables" tab: - `base_url`: `localhost:5000` or `UNLAD_TEST_API_URL` - `token`: retrieved when you login via the UNLAD TEMPLATE API
+2. Import the `HMS API.postman_collection.json` file from the repository
+3. Click the "HMS API" collection name and update the following on the "Variables" tab: - `base_url`: `localhost:5000` or `HMS_TEST_API_URL` - `token`: retrieved when you login via the HMS API
 
 ## User Registration (new API user)
 

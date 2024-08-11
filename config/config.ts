@@ -8,7 +8,7 @@ export const config = {
   PORT: 5000,
 
   MSG: {
-    WELCOME: "You're successfully connected to UNLAD Template Service Typescript Version (API)",
+    WELCOME: "You're successfully connected to HMS API",
   },
 
   SUCCESS: {
@@ -66,7 +66,7 @@ export const config = {
   },
 
   DB: {
-    URI: "mongodb+srv://darielavila43:m5JcyIOUCcN6IjfJ@tarlac.yjnmgso.mongodb.net/?retryWrites=true&w=majority&appName=Tarlac",
+    URI: "mongodb+srv://tarlacsolutionsinc:RJc83AVcrahVG4RC@tarlac-prod-clusterm2.ofhfszm.mongodb.net/hms-prod?retryWrites=true&w=majority&appName=Tarlac-Prod-ClusterM2",
     COLLECTION: "sessions",
   },
 
