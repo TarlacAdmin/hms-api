@@ -1,6 +1,6 @@
-# HMS API
+# Tarlac Hospital Management System (API)
 
-Welcome to the HMS API documentation
+Welcome to the Tarlac Hospital Management System (API) documentation
 
 ## Setup
 
@@ -14,8 +14,8 @@ Welcome to the HMS API documentation
 ## Running Tests
 
 1. Install Postman for PCs/Mac (or use Postman for Web https://web.postman.co/)
-2. Import the `HMS API.postman_collection.json` file from the repository
-3. Click the "HMS API" collection name and update the following on the "Variables" tab: - `base_url`: `localhost:5000` or `HMS_TEST_API_URL` - `token`: retrieved when you login via the HMS API
+2. Import the `Tarlac Hospital Management System (API).postman_collection.json` file from the repository
+3. Click the "Tarlac Hospital Management System (API)" collection name and update the following on the "Variables" tab: - `base_url`: `localhost:5000` or `HMS_TEST_API_URL` - `token`: retrieved when you login via the Tarlac Hospital Management System (API)
 
 ## User Registration (new API user)
 

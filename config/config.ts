@@ -8,7 +8,7 @@ export const config = {
   PORT: 5000,
 
   MSG: {
-    WELCOME: "You're successfully connected to HMS API",
+    WELCOME: "You're successfully connected to Tarlac Hospital Management System (API)",
   },
 
   SUCCESS: {
@@ -71,7 +71,7 @@ export const config = {
   },
 
   JWTCONFIG: {
-    SECRET: "s@mple",
+    SECRET: "t@rl@cHMS2024",
     BEARER_REGEX: /^Bearer\s+(\S+)$/,
     ADMIN_EXPIRESIN: "1d",
     EXPIRESIN: "1h",
